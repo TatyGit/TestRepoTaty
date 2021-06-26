@@ -8,4 +8,9 @@
 
 .VBox {
     -fx-background-color: yellow;
+    -fx-font-color: black;
+}
+
+.Button {
+    -fx-background-color: black;
 }
