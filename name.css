@@ -1,4 +1,5 @@
 .root {
     -fx-background-color: green;
     -fx-font-color: black;
+    -fx-font-style: italic;
 }
