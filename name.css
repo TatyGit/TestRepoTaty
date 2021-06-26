@@ -3,4 +3,9 @@
     -fx-font-color: black;
     -fx-font-style: italic;
     -fx-font-family: Arial;
+
+}
+
+.VBox {
+    -fx-background-color: yellow;
 }
